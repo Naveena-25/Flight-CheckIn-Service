@@ -18,7 +18,7 @@ import com.capgemini.flightcheckinservice.service.CheckInService;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-class Flightmanagement1ApplicationTests {
+class FlightCheckInServiceTest {
 
 
 	@Autowired
